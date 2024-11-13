@@ -1,0 +1,7 @@
+C:\Users\Myak\Downloads\APSFCFM\APSFCFM\obj\Release\net8.0\APSFCFM.csproj.AssemblyReference.cache
+C:\Users\Myak\Downloads\APSFCFM\APSFCFM\obj\Release\net8.0\APSFCFM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myak\Downloads\APSFCFM\APSFCFM\obj\Release\net8.0\APSFCFM.AssemblyInfoInputs.cache
+C:\Users\Myak\Downloads\APSFCFM\APSFCFM\obj\Release\net8.0\APSFCFM.AssemblyInfo.cs
+C:\Users\Myak\Downloads\APSFCFM\APSFCFM\obj\Release\net8.0\APSFCFM.csproj.CoreCompileInputs.cache
+C:\Users\Myak\Downloads\APSFCFM\APSFCFM\obj\Release\net8.0\APSFCFM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Myak\Downloads\APSFCFM\APSFCFM\obj\Release\net8.0\APSFCFM.MvcApplicationPartsAssemblyInfo.cache

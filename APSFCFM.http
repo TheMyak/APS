@@ -1,0 +1,6 @@
+@APSFCFM_HostAddress = http://localhost:5227
+
+GET {{APSFCFM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
