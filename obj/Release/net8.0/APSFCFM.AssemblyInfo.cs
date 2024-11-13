@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APSFCFM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51f5a558e8fd700809a3c3f0f665061679f0d645")]
 [assembly: System.Reflection.AssemblyProductAttribute("APSFCFM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APSFCFM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -428,3 +428,8 @@ C:\Users\Myak\Documents\GitHub\APS\obj\Debug\net8.0\refint\APSFCFM.dll
 C:\Users\Myak\Documents\GitHub\APS\obj\Debug\net8.0\APSFCFM.pdb
 C:\Users\Myak\Documents\GitHub\APS\obj\Debug\net8.0\APSFCFM.genruntimeconfig.cache
 C:\Users\Myak\Documents\GitHub\APS\obj\Debug\net8.0\ref\APSFCFM.dll
+C:\Users\Myak\Documents\GitHub\APS\bin\Debug\net8.0\publish\web.config
+C:\Users\Myak\Documents\GitHub\APS\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\Myak\Documents\GitHub\APS\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\Myak\Documents\GitHub\APS\bin\Debug\net8.0\publish\APSFCFM.deps.json
+C:\Users\Myak\Documents\GitHub\APS\bin\Debug\net8.0\publish\APSFCFM.runtimeconfig.json
