@@ -18,7 +18,7 @@ builder.WebHost.ConfigureKestrel(options =>
 // Configurar DbContext para usar la conexión a la base de datos en Azure
 builder.Services.AddDbContext<LibraryContext>(options =>
     options.UseSqlServer(
-        builder.Configuration.GetConnectionString("LibraryDatabase"),
+        builder.Configuration.GetConnectionString("AZURE"),
         sqlServerOptionsAction: sqlOptions =>
         {
             sqlOptions.EnableRetryOnFailure(

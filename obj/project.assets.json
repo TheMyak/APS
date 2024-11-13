@@ -4516,11 +4516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Myak\\Downloads\\APSFCFM\\APSFCFM\\APSFCFM.csproj",
+      "projectUniqueName": "C:\\Users\\Myak\\Documents\\GitHub\\APS\\APSFCFM.csproj",
       "projectName": "APSFCFM",
-      "projectPath": "C:\\Users\\Myak\\Downloads\\APSFCFM\\APSFCFM\\APSFCFM.csproj",
+      "projectPath": "C:\\Users\\Myak\\Documents\\GitHub\\APS\\APSFCFM.csproj",
       "packagesPath": "C:\\Users\\Myak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Myak\\Downloads\\APSFCFM\\APSFCFM\\obj\\",
+      "outputPath": "C:\\Users\\Myak\\Documents\\GitHub\\APS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Myak\\AppData\\Roaming\\NuGet\\NuGet.Config"
